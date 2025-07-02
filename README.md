@@ -23,8 +23,8 @@ Over this time, I've gained strong hands-on experience in a variety of technolog
 
 
 ## Technologies Used (both professionally, and in personal projects)
- - C# (.NET (.NET Core 3.1 and newer)) (Including: Web APIs, Razor Pages, Blazor, SignalR, Entity Framework Core and Dapper)
- - SQL (Including: SQL Server and MySQL)
+ - C# (.NET (.NET Core 3.1 and newer)) (Including: REST Web APIs (in microservice environments), Razor Pages, Blazor, SignalR, Entity Framework Core and Dapper)
+ - SQL (Including: SQL Server and MySQL (with stored procedures))
  - React (Starting with Version 18)
  - Rust
  - Containerization (Including: Docker)
